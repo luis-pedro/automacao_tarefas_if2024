@@ -1,4 +1,5 @@
 import os
+os.system('cls')
 
 def limparTela():
-    print('Limpando a tela')
+    print('Nova mensagem em tela limpa')
